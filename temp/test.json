@@ -1,0 +1,68 @@
+{
+  "date": 1645497275583,
+  "assessment": {
+    "KOSS": {
+      "total": { "score": 46.4, "distribution": [42.4, 48.4, 54.7] },
+      "system": { "score": 66.7, "distribution": [41.6, 50, 66.6] },
+      "culture": { "score": 25, "distribution": [33.3, 41.6, 50] },
+      "autonomy": { "score": 50, "distribution": [41.6, 50, 66.6] },
+      "compensation": { "score": 44.4, "distribution": [33.3, 55.5, 66.6] },
+      "relationship": { "score": 55.6, "distribution": [-1, 33.3, 44.4] },
+      "requirements": { "score": 66.7, "distribution": [41.6, 50, 58.3] },
+      "jobInstability": { "score": 16.7, "distribution": [33.3, 50, 66.6] }
+    },
+    "PHQ9": {
+      "level": 2,
+      "score": 13,
+      "advice": 1,
+      "guidance": "직업, 사회적 영향이 있는지 주의 필요함",
+      "riskRate": 48.1,
+      "treatment": 1,
+      "description": "중간 수준의 우울감을 자주 느낌"
+    },
+    "GAD7": {
+      "level": 1,
+      "score": 9,
+      "advice": 1,
+      "guidance": "직업, 사회적 영향이 있는지 주의 필요함",
+      "riskRate": 42.9,
+      "treatment": 1,
+      "description": "다소 경미한 수준의 걱정과 불안 있음"
+    },
+    "ADNM4": {
+      "level": 4,
+      "score": 10,
+      "advice": 2,
+      "guidance": "추가 평가 또는 전문가의 도움이 필요함",
+      "riskRate": 62.5,
+      "treatment": 2,
+      "description": "일상생활 적응에 어려움이 있을 수 있음"
+    },
+    "PCPTSD5": {
+      "level": 2,
+      "score": 2,
+      "advice": 2,
+      "guidance": "추가 평가 또는 전문가의 도움이 필요함",
+      "riskRate": 40,
+      "treatment": 2,
+      "description": "외상사건 관련 상황에 불편감을 느낌"
+    },
+    "ISI": {
+      "level": 1,
+      "score": 14,
+      "advice": 1,
+      "guidance": "2주 이상 지속 시 전문가의 도움이 필요함",
+      "riskRate": 50,
+      "treatment": 2,
+      "description": "경미한 불면증이 있는 것으로 보임"
+    },
+    "CSS": {
+      "level": 4,
+      "score": 1,
+      "advice": 2,
+      "guidance": "추가 평가 및 전문가의 도움이 즉시 필요함",
+      "treatment": 2,
+      "description": "자살 계획에 대한 생각을 하고 계신 것으로 보입니다"
+    }
+  }
+}
